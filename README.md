@@ -1,3 +1,2 @@
-# ilovetheuniverse
-
-Art inspired by Astronomy
+# friendlyVO
+A mechanism for making your images available in the Virtual Observatory
