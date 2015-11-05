@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "<img src='static/ILTU_white.png'>"
+    return "<img src='static/ILTU_blue.png'>"
 
 if __name__ == '__main__':
     app.run()
