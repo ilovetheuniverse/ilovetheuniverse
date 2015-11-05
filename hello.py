@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hello World! I can deploy automatically :)'
+    return 'I <3 the Universe '
 
 @app.route('/query/sia')
 def sia():
