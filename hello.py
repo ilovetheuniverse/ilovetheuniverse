@@ -12,7 +12,7 @@ def hello():
 
 @app.route('/dotastro7')
 def dotastro7():
-    return open(dotastro7.html)
+    return open('dotastro7.html').read()
 
 if __name__ == '__main__':
     app.run()
