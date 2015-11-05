@@ -11,7 +11,7 @@ def hello():
     return "<img src='static/ILTU_blue.png'>"
 
 @app.route('/dotastro7')
-def hello():
+def dotastro7():
     return open(dotastro7.html)
 
 if __name__ == '__main__':
